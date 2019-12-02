@@ -1,0 +1,10 @@
+{
+    "FI_IMPORT_FL_XML_REQ": {
+        "XML_VALUE": "AR096",
+        "ENLINEA": "N",
+        "BUSINESS_UNIT": "AR096",
+        "SEQNO": 1,
+        "ULTIMO": "Y",
+        "ID": 1
+    }
+}
